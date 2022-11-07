@@ -1,0 +1,21 @@
+body{
+width:850px;
+	height:600px;
+	background-size: center;
+	border-radius: 20px;
+	position: relative;
+	left:30%;
+	top:5%;
+	box-shadow:5px 5px 20px black; 
+
+
+}
+h1{
+color:#c70039;
+font-size:60px;
+font-family:'Times New Roman';
+}
+h3{
+color:green;
+font-size:25px;
+}

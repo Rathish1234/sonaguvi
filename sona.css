@@ -1,0 +1,110 @@
+body{
+	background-size:center;
+	background-image: url("https://drive.google.com/uc?export=view&id=11c-DjmYkB1-xQHVslhrdDB_1qTKiB8Uk");
+	position:relative;
+	width:100%;
+	height:auto;
+}
+.maincls{
+	width:450px;
+	height:600px;
+	background-color:white;
+	background-size: cover;
+	border-radius: 20px;
+	position: fixed;
+	left:30%;
+	top:5%;
+	box-shadow:5px 5px 20px black; 
+}
+h1{
+	position:relative;
+	top: 10px;
+	color:navy;
+	text-shadow: 2px 2px 2px gray;
+}
+h2{
+	color:darkgreen;
+	position:relative;
+	top:200px:
+	
+	
+}
+h3{
+	position:relative;
+	left:20px;
+	font-size:25px;
+}
+.subcls input[type="text"], input[type="password"]{
+	border: none;
+	outline: none;
+	font-size:20px;
+	font-weight:bold;
+	border-bottom:2px solid navy;
+}
+h4{
+	position:relative;
+	margin-left:20px;
+	font-size: 25px;
+}
+.subcls input[type="text"],input[type="password"]{
+	position:relative;
+	margin-left:80px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.subcls input[type="password"]{
+	position:relative;
+	margin-left:80px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+button{
+	position:absolute;
+	left:160px;
+	top:450px;
+	font-size:23px;
+	background-color:#191970;
+border: none;
+color: white;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 4px 2px;
+cursor: pointer;
+border-radius:25px;
+}
+a{
+	
+	left:40px;
+	top:610px;
+	font-size:23px;
+}
+img
+{
+position:relative;
+margin-top:5px;
+}
+.button{
+position:absolute;
+	left:160px;
+	top:450px;
+background-color:navy;
+border:none;
+color:white;
+padding: 10px 15px;
+font-size:20px;
+text-align: center;
+margin: 4px 2px;
+cursor: pointer;
+}
+.button1 {border-radius:15px;}
+p{
+position:absolute;
+	left:525px;
+	top:570px;
+	font-size:23px;
+
+}
+
+
